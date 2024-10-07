@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmed\\Desktop\\PRO\\10. SSRS\\Supply_Chain_SSRS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62111BF8-1B06-431F-9342-B32EF0A065C4}|Supply_Chain_SSRS\\Supply_Chain_SSRS.rptproj|C:\\Users\\Ahmed\\Desktop\\PRO\\10. SSRS\\Supply_Chain_SSRS\\Supply_Chain_SSRS\\Sales By Order.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{62111BF8-1B06-431F-9342-B32EF0A065C4}|Supply_Chain_SSRS\\Supply_Chain_SSRS.rptproj|solutionrelative:Supply_Chain_SSRS\\Sales By Order.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62111BF8-1B06-431F-9342-B32EF0A065C4}|Supply_Chain_SSRS\\Supply_Chain_SSRS.rptproj|C:\\Users\\Ahmed\\Desktop\\PRO\\10. SSRS\\Supply_Chain_SSRS\\Supply_Chain_SSRS\\Sales By Category.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{62111BF8-1B06-431F-9342-B32EF0A065C4}|Supply_Chain_SSRS\\Supply_Chain_SSRS.rptproj|solutionrelative:Supply_Chain_SSRS\\Sales By Category.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62111BF8-1B06-431F-9342-B32EF0A065C4}|Supply_Chain_SSRS\\Supply_Chain_SSRS.rptproj|C:\\Users\\Ahmed\\Desktop\\PRO\\10. SSRS\\Supply_Chain_SSRS\\Supply_Chain_SSRS\\Products.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{62111BF8-1B06-431F-9342-B32EF0A065C4}|Supply_Chain_SSRS\\Supply_Chain_SSRS.rptproj|solutionrelative:Supply_Chain_SSRS\\Products.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62111BF8-1B06-431F-9342-B32EF0A065C4}|Supply_Chain_SSRS\\Supply_Chain_SSRS.rptproj|C:\\Users\\Ahmed\\Desktop\\PRO\\10. SSRS\\Supply_Chain_SSRS\\Supply_Chain_SSRS\\Markets Sales.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{62111BF8-1B06-431F-9342-B32EF0A065C4}|Supply_Chain_SSRS\\Supply_Chain_SSRS.rptproj|solutionrelative:Supply_Chain_SSRS\\Markets Sales.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62111BF8-1B06-431F-9342-B32EF0A065C4}|Supply_Chain_SSRS\\Supply_Chain_SSRS.rptproj|C:\\Users\\Ahmed\\Desktop\\PRO\\10. SSRS\\Supply_Chain_SSRS\\Supply_Chain_SSRS\\Customer Segment.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{62111BF8-1B06-431F-9342-B32EF0A065C4}|Supply_Chain_SSRS\\Supply_Chain_SSRS.rptproj|solutionrelative:Supply_Chain_SSRS\\Customer Segment.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f4e46f1e-cf83-40aa-b568-a627394bc994}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a83394e3-39c2-4678-a3c8-364b69d78fd3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sales By Category.rdl [Design]",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\PRO\\10. SSRS\\Supply_Chain_SSRS\\Supply_Chain_SSRS\\Sales By Category.rdl",
+              "RelativeDocumentMoniker": "Supply_Chain_SSRS\\Sales By Category.rdl",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\PRO\\10. SSRS\\Supply_Chain_SSRS\\Supply_Chain_SSRS\\Sales By Category.rdl [Design]",
+              "RelativeToolTip": "Supply_Chain_SSRS\\Sales By Category.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-04T09:50:42.402Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer Segment.rdl [Design]",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\PRO\\10. SSRS\\Supply_Chain_SSRS\\Supply_Chain_SSRS\\Customer Segment.rdl",
+              "RelativeDocumentMoniker": "Supply_Chain_SSRS\\Customer Segment.rdl",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\PRO\\10. SSRS\\Supply_Chain_SSRS\\Supply_Chain_SSRS\\Customer Segment.rdl [Design]",
+              "RelativeToolTip": "Supply_Chain_SSRS\\Customer Segment.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-04T08:46:22.392Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sales By Order.rdl [Design]",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\PRO\\10. SSRS\\Supply_Chain_SSRS\\Supply_Chain_SSRS\\Sales By Order.rdl",
+              "RelativeDocumentMoniker": "Supply_Chain_SSRS\\Sales By Order.rdl",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\PRO\\10. SSRS\\Supply_Chain_SSRS\\Supply_Chain_SSRS\\Sales By Order.rdl [Design]",
+              "RelativeToolTip": "Supply_Chain_SSRS\\Sales By Order.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-02T15:26:29.016Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Markets Sales.rdl [Design]",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\PRO\\10. SSRS\\Supply_Chain_SSRS\\Supply_Chain_SSRS\\Markets Sales.rdl",
+              "RelativeDocumentMoniker": "Supply_Chain_SSRS\\Markets Sales.rdl",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\PRO\\10. SSRS\\Supply_Chain_SSRS\\Supply_Chain_SSRS\\Markets Sales.rdl [Design]",
+              "RelativeToolTip": "Supply_Chain_SSRS\\Markets Sales.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-02T14:20:49.513Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Products.rdl [Design]",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Desktop\\PRO\\10. SSRS\\Supply_Chain_SSRS\\Supply_Chain_SSRS\\Products.rdl",
+              "RelativeDocumentMoniker": "Supply_Chain_SSRS\\Products.rdl",
+              "ToolTip": "C:\\Users\\Ahmed\\Desktop\\PRO\\10. SSRS\\Supply_Chain_SSRS\\Supply_Chain_SSRS\\Products.rdl [Design]",
+              "RelativeToolTip": "Supply_Chain_SSRS\\Products.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-02T12:02:20.971Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
